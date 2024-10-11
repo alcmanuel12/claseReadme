@@ -80,3 +80,35 @@ EJEMPLO PARA INSERTAR IMAGEN
 
 <img src="https://wallpapers.com/images/hd/chill-4k-mountain-sunset-art-6jor3hh9q5cm5bjj.jpg" width="200">
 
+
+EJEMPLO DE ENLACE 
+
+[Readme](https://www.youtube.com/)
+
+EJEMPLO ENLACE AUTOMATICO 
+
+<https://www.youtube.com/>
+
+EJEMPLO EMOJIS 
+
+:+1:
+
+EJEMPLO BLOQUE DE CODIGO 
+
+```bash 
+
+nmp install
+
+```
+
+```javascipt
+
+function decirHola (){
+
+console.log('Hola')
+
+}
+
+```
+
+
