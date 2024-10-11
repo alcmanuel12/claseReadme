@@ -78,7 +78,5 @@ EJEMPLO TABLAS
 EJEMPLO PARA INSERTAR IMAGEN 
 
 
-![FONDO_CHILL](https://github.com/user-attachments/assets/92e42d33-0805-413b-ba04-14d55cc15bed)
-
-<img src="https://wallpapers.com/images/hd/chill-4k-mountain-sunset-art-6jor3hh9q5cm5bjj.jpg"> whitd
+<img src="https://wallpapers.com/images/hd/chill-4k-mountain-sunset-art-6jor3hh9q5cm5bjj.jpg" width="200">
 
